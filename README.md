@@ -6,7 +6,9 @@ We provide a small dataset in `./Echodata` to demo the codes.
 
 ### Installation
 
+```shell
 git clone https://github.com/qiang-Blazer/EchoUDA.git
+```
 
 ### Prerequisites
 
